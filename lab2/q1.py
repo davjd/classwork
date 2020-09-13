@@ -1,6 +1,7 @@
 import csv
 
-# How many projects does each borough contain.
+# We'll read from the csv file and analyze it.
+# How many projects does each borough contain?
 with open('Affordable_Housing.csv') as csv_file:
     csv_reader = csv.reader(csv_file, delimiter=',')
     line_count = 0
