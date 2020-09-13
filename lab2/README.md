@@ -14,7 +14,7 @@
 
 ### To run each program:
 
-**q1.py: ***python3 q1.py*
+**q1.py:** *python3 q1.py*
 
 **q2.cpp:** *clang++ -std=c++11 q2.cpp -o q*
 
