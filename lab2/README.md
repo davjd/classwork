@@ -18,7 +18,7 @@
 
 **q2.cpp:** *clang++ -std=c++11 q2.cpp -o q*
 
-*	./q*
+*./q*
 
 **q3.sh:** First change permissions for the file (shown inside the comments). Then run it: *./q3.sh*
 
