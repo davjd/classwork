@@ -1,0 +1,16 @@
+  772  ./task2.sh
+  773  ./task2.sh
+  774  clear
+  775  ./task2.sh
+  776  ./task2.sh
+  777  clear
+  778  ./task2.sh
+  779  ./task2.sh "staten island"
+  780  pdftoppm
+  781  history
+  782  ls
+  783  touch history.txt
+  784  history > history.txt
+  785  cat history.txt
+  786  history
+  787  python3 task1.py get-count /Users/davidmedina/Git/classwork/3140/lab5/nycha-development-data-book-csv_csv.csv --borough="brooKLYN"
