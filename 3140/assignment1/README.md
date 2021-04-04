@@ -1,2 +1,13 @@
-# Sample project for CISC 3140 assignment 1
+**Requirements:**
 
+
+
+*   [Guile](https://www.gnu.org/software/guile/).
+
+**Run:**
+
+_guile -e main -s main.scm &lt;string, word>_
+
+
+
+*   The parameter here cannot be empty.
