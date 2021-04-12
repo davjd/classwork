@@ -1,0 +1,27 @@
+body{
+    top: 0px;
+    margin:0px;
+    color: white;
+    background-color:#3b3336;
+
+}
+
+#main_input{
+    position: relative;
+    display: block;
+    width: 40vw;
+    top: 20vh;
+    left: 31vw;
+    background-color: rgba(10, 11, 12, 0.02);
+    font-size: 2.5em;
+    color: white;
+}
+
+
+#p_view{
+    display: block;
+    font-size: 3.5em;
+    color: white;
+    margin-left: 5vw;
+    margin-top: 0vh;
+}
